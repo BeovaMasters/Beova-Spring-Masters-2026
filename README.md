@@ -26,4 +26,4 @@ All matches are played on Challengermode servers with automated match rooms, vet
 [Click here to view `additional-information.md`](./additional-information.md)
 
 ### ✔ Amendments
-[Click here to view `additional-information.md`](./2026-02-21-challengermode-migration.md)
+[Click here to view `Amendments`](https://github.com/BeovaMasters/Beova-Spring-Masters-2026/blob/main/amendments/2026-02-21-challengermode-migration.md)
