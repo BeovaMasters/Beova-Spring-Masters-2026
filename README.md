@@ -25,5 +25,5 @@ All matches are played on Challengermode servers with automated match rooms, vet
 ### ✔ Official Additional Information  
 [Click here to view `additional-information.md`](./additional-information.md)
 
-### ✔ Amendments (if any)
-This folder will contain amendments to the Additional Information if required:
+### ✔ Amendments
+[Click here to view `additional-information.md`](./2026-02-21-challengermode-migration.md)
