@@ -15,7 +15,9 @@ All required tournament documentation is stored here, including the public **Add
 **Entry Fee:** 3,200 DKK ex. VAT  
 **Registration:** Opens February 28, 2026 (FCFS with public timestamp sheet)  
 **Seeding Source:** Europe VRS — *March 2, 2026 snapshot*  
-
+### Match Platform
+Beova Spring Masters 2026 is operated on Challengermode’s esports tournament platform.  
+All matches are played on Challengermode servers with automated match rooms, veto tools, and admin controls.
 ---
 
 ## 📄 Documentation
