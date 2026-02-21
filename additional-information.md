@@ -91,20 +91,23 @@ Minimum 3 of 5 registered athletes must play each match (TOR §3.10.1)
 ---
 
 ## 7) Technical Setup
-- **LAN:** BYOC — 40 seats  
-- **Power:** Structured distribution  
+- **LAN:** BYOC — 40 competitive seats  
+- **Power:** Structured distribution suitable for high‑load PC setups  
 - **Network:** Gigabit LAN (provided by Nygreen IT)  
-- **Match Servers:** 4 DK‑hosted servers  
-  - Group A  
-  - Group B  
-  - Semifinals  
-  - Final + Backup  
-- **GOTV:**  
-  - Live feed for production  
-  - Delayed feed for public spectators  
-- **Broadcast:**  
-  - Live production with stream delay  
-  - No venue screens visible to players
+
+### Match Servers (Challengermode)
+All official matches are played on **Challengermode‑managed CS2 tournament servers** (Nordic region).  
+Servers are assigned via Challengermode match rooms.
+
+### GOTV
+- **Production GOTV:** live/whitelisted access for the tournament observer  
+- **Public GOTV:** delayed (≈60s) spectator feed to ensure competitive integrity  
+- GOTV distribution is handled via Challengermode
+
+### Broadcast
+- Live production with ≈90s stream delay  
+- No venue screens visible to players  
+- Team cameras and observer feed are synced using broadcast delay
 
 ---
 
@@ -142,6 +145,7 @@ Provides network infrastructure and technical support.
 - **Primary Contact:**  
   Rasmus Søgaard Petersen  
   Email: rsp@beova.dk  
-  Phone: +45 42 33 09 28  
+  Phone: +45 42 33 09 28
+  **Rules on platform:** The full match and technical rules are available inside the Challengermode tournament page.
 
 - **Valve Contact:** csgoteamfeedback@valvesoftware.com
